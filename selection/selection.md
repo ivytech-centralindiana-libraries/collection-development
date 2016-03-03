@@ -52,6 +52,9 @@ Gifts and donations are welcome, but the gifted or donated materials are subject
 
 ### Vendors
 **Books** - Midwest Library Services
+
 **Periodicals** - EBSCO
+
 **Electronic Hardware/Software** - IvyMarket, Amazon, Apple App Store
+
 Selecting of vendors for other formats is at the discretion of the Assistant Director.
