@@ -9,7 +9,7 @@ The primary mission of the library at Ivy Tech is to provide access to materials
 
 ### Intellectual Freedom
 The Ivy Tech Community College - Central Indiana Libraries supports and abides by the following statements and guidelines from the American Library Association:
-* Library Bill of Rights
-* Intellectual Freedom Principles for Academic Libraries
-* Freedom to Read
-*	Freedom to View
+* [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill)
+* [Intellectual Freedom Principles for Academic Libraries](http://www.ala.org/Template.cfm?Section=interpretations&Template=/ContentManagement/ContentDisplay.cfm&ContentID=8551)
+* [Freedom to Read](http://www.ala.org/advocacy/intfreedom/statementspols/freedomreadstatement)
+*	[Freedom to View](http://www.ala.org/vrt/professionalresources/vrtresources/freedomtoview)
