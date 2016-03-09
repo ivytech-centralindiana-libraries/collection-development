@@ -8,7 +8,7 @@ Ivy Tech Community College of Indiana is a statewide, open-access, community col
 The primary mission of the library at Ivy Tech is to provide access to materials, information, and services that support and supplement the educational mission of the College. The library's primary users are students, faculty, and staff at Ivy Tech. The library serves as a source of instruction and assistance in the use of its resources and services.
 
 ### Intellectual Freedom
-The Ivy Tech Community College - Central Indiana Libraries supports and abides by the following statements and guidelines from the American Library Association:
+The Ivy Tech Community College - Central Indiana Libraries’ policies have been created with the following American Library Association statements and guidelines in mind:
 * [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill)
 * [Intellectual Freedom Principles for Academic Libraries](http://www.ala.org/Template.cfm?Section=interpretations&Template=/ContentManagement/ContentDisplay.cfm&ContentID=8551)
 * [Freedom to Read](http://www.ala.org/advocacy/intfreedom/statementspols/freedomreadstatement)
